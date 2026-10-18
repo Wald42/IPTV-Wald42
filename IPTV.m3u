@@ -1,0 +1,2281 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="rossia1" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png" group-title="01 Россия 1", Россия 1 (3)
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="01 Россия 1",Russia-1 SD (576p)
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD" group-title="01 Россия 1",Russia-1 HD (1080p)
+http://176.118.197.101/RossiyaHD/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="01 Россия 1",Russia-1 (576p)
+http://31.148.5.241/kanal_2/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="02 Россия 24",Russia-24 (576p)
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="02 Россия 24",Russia-24 (576p)
+http://31.148.5.241/kanal_7/index.m3u8
+#EXTINF:-1  group-title="03 РТР", Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" group-title="03 РТР",RTR-Planeta (576p)
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1  tvg-id="zvezda" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="06a Звезда", Звезда (2)
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="06a Звезда", Звезда Плюс
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/index.m3u8
+
+#EXTINF:-1  tvg-id="kultura" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="04 Россия Культура", Россия К (3)
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="04 Россия Культура",Russia-K (576p)
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="04 Россия Культура",Russia-K (576p)
+http://31.148.5.241/kanal_6/index.m3u8
+#EXTINF:-1  group-title="05 Неизвестная Россия", Неизвестная Россия (2)
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+#EXTINF:-1 tvg-id="24KZ.kz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png"  group-title="06 Новости",24KZ (576p)
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1  tvg-id="mir-24" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="06 Новости", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1  group-title="06 Новости", РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1  group-title="06 Новости", РБК (3)
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1  group-title="06 Новости", 360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1  group-title="06 Новости", 360 Новости (2)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1  group-title="06 Новости", 360 Новости (3)
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1  group-title="06 Новости", Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1  group-title="06 Новости", Euronews (2)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1  group-title="06 Новости", Известия Приосколья | Белгородская область
+https://tvbelgorod.ru:90/izvestiya/index.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="06 Новости",360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru@SD" group-title="06 Новости",Известия (1080p)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="06 Новости",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Сериал (2)
+http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1  tvg-id="ntv" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ (2)
+https://cdn.ntv.ru/ntv-msk_hd/index.m3u8
+#EXTINF:-1  tvg-id="ntv" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ (4)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1  tvg-id="ntv-pl1" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ +1 (2)
+https://cdn.ntv.ru/ntv1/index.m3u8
+#EXTINF:-1  tvg-id="ntv-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ +2 (2)
+https://cdn.ntv.ru/ntv2/index.m3u8
+#EXTINF:-1  tvg-id="ntv-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ +4 (2)
+https://cdn.ntv.ru/ntv4/index.m3u8
+#EXTINF:-1  tvg-id="ntv-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="07 НТВ", НТВ +7 (2)
+https://cdn.ntv.ru/ntv7/index.m3u8
+
+#EXTINF:-1  tvg-id="ntv-xit" tvg-logo="https://ngrch.github.io/iptv/logos/ntv_hit.png" group-title="07 НТВ", НТВ Хит
+https://cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Мир (2)
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Мир (3)
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Стиль
+https://cdn.ntv.ru/th_style/index.m3u8
+#EXTINF:-1  group-title="07 НТВ", НТВ Право
+https://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="07 НТВ",NTV HD (1080p)
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" group-title="07 НТВ",NTV Law (576p)
+http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="07 НТВ",NTV SD (576p)
+http://45.153.24.78/NTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="07 НТВ",NTV SD (576p)
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" group-title="07 НТВ",NTV Style (576p)
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD" group-title="07 НТВ",NTV Vitrina (720p)
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" group-title="07 НТВ",NTV-Hit (576p)
+http://178.134.1.158:8081/ntvhit/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="07 НТВ",NTV HD (1080p)
+http://flussonic.linkintel.ru/ntv/index.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru@SD" group-title="07 НТВ",NTV Mir (576p)
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="FashionTV.ru@SD" group-title="07 НТВ",FashionTV (1080p)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="07 НТВ",NTV (576p)
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="07 НТВ",NTV (576p)
+http://31.148.5.241/kanal_4/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz@SD" tvg-logo="https://i.imgur.com/vm5sJHP.png"  group-title="08 Российские каналы",Channel One Eurasia (576p)
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Jambyl.kz@SD" tvg-logo="https://i.imgur.com/X7N3JK4.png"  group-title="08 Российские каналы",Jambyl (360p) [Not 24/7]
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-id="Ontustik.kz@SD" tvg-logo="https://i.imgur.com/xqr1hjN.png"  group-title="08 Российские каналы",Ontustik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Окко Спорт
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Окко Прайм Спорт
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Eurosport 1 (2)
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Eurosport 2 (2)
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Sport 1 Baltic
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Astrakhan.RU Sport | Астрахань
+https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", QazSport | Казахстан
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", QazSport (2) | Казахстан
+https://fs.uplink.kz/qazsport_hd/index.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" group-title="08 Российские каналы",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" group-title="08 Российские каналы",Russian MusicBox (576p)
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" group-title="08 Российские каналы",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1  tvg-id="tvcentr" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="08 Российские каналы", ТВ Центр (2)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="spas" tvg-logo="https://ngrch.github.io/iptv/logos/spas.png" group-title="08 Российские каналы", Спас (2)
+https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1  tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png" group-title="08 Российские каналы", СТС (2)
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1  tvg-id="domashny" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png" group-title="08 Российские каналы", Домашний (2)
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1  tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png" group-title="08 Российские каналы", Пятница (2)
+http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1  tvg-id="mir" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="08 Российские каналы", Мир (3)
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1  tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="08 Российские каналы", ТНТ (2)
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1  tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="08 Российские каналы", ТНТ (3)
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
+#EXTINF:-1  tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="08 Российские каналы", Мир +2 (2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="08 Российские каналы", Мир +2 (3)
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1  tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="08 Российские каналы", Мир +4 (2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="08 Российские каналы", Мир +7 (2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+#EXTINF:-1  tvg-id="russky-detektiv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_detectiv.png" group-title="08 Российские каналы", Русский детектив
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1  tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png" group-title="08 Российские каналы", ТНТ4 (2)
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:-1  tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png" group-title="08 Российские каналы", СТС Love (2)
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1  tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="08 Российские каналы", Ю (2)
+https://cdn-01.bonus-tv.ru/u/index.m3u8
+#EXTINF:-1  tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="08 Российские каналы", Ю (3)
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1  tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="08 Российские каналы", Ю (4)
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", 360
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", 360 (2)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", 360 (3)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Союзный
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Союзный (2)
+http://radio.tvs.by/TRO/index.m3u8
+
+#EXTINF:-1  group-title="08 Российские каналы", СТС Kids (2)
+http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Плюс минус 16
+https://media.16pm.ru/live/index.m3u8
+
+#EXTINF:-1  group-title="08 Российские каналы", Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Сарафан (2)
+http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Start Air
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Остросюжетное
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Шокирующее
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Русский бестселлер
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Мир Ехо
+https://kinowalk.hopto.org/mirdobro_live
+#EXTINF:-1  group-title="08 Российские каналы", 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Приключения (2)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Открытый мир
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Вопросы и ответы (2)
+http://stream.mcquack.net/76/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", ТВ-3 | Беларусь
+http://radio.tvs.by/TB-3/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Мир Белогорья (2) | Белгородская область
+https://tvbelgorod.ru:90/mirbelogorya/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Арис 24 | Башкортостан
+https://serv25.vintera.tv/test/aris/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Арис 24 (2) | Башкортостан
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
+#EXTINF:-1  group-title="08 Российские каналы", БСТ | Башкортостан
+https://bsttv.bonus-tv.ru/cdn/bst/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Салям (2) | Башкортостан
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Тамыр (2) | Башкортостан
+https://bsttv.bonus-tv.ru/cdn/tamyr/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Вся Уфа | Башкортостан
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
+#EXTINF:-1  group-title="08 Российские каналы", Колыма Плюс (2) | Магаданская область
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", ОТВ (2) | Свердловская область
+https://vd.obltv.ru/watch/air.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", ОТВ Приморье (2) | Приморский край
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Городской телеканал (2) | Ярославская область
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Муром | Владимирская область
+http://62.76.73.38/hls/stream.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Югра (2) | ХМАО-Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Мегаполис | ХМАО-Югра
+https://megapolis.iptv2022.com/index.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", Тюменское время (2) | Тюмень
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", 11 канал (2) | Пенза
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1  group-title="08 Российские каналы", ЮТВ (2) | Чувашия
+https://utv.iptv2022.com/index.m3u8
+#EXTINF:-1 tvg-id="360.ru@SD" group-title="08 Российские каналы",360° (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7000.m3u8
+#EXTINF:-1 tvg-id="ART.ru@SD" group-title="08 Российские каналы",ART (576p)
+http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="08 Российские каналы",Channel One (576p)
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="08 Российские каналы",Channel One (576p)
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" group-title="08 Российские каналы",Channel One HD (720p)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="RT.ru@SD" group-title="08 Российские каналы",RT (720p)
+http://212.5.144.156:8080/rt/index.m3u8
+#EXTINF:-1 tvg-id="RTBalkan.ru@SD" group-title="08 Российские каналы",RT Balkan (1080p)
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBalkan.ru@SD" group-title="08 Российские каналы",RT Balkan (1080p)
+https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="08 Российские каналы",RT en Espanol (1080p)
+http://15.204.246.24:8080/RTHD/index.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="08 Российские каналы",RT en Espanol (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="08 Российские каналы",RT en Espanol (576p)
+https://streaming.thestream.cyou/live/46.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="08 Российские каналы",RT en Espanol (576p)
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru@HD" group-title="08 Российские каналы",RT HD (1080p)
+http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1 tvg-id="RT.ru@HD" group-title="08 Российские каналы",RT HD (1080p)
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RTVi.ru@SD" group-title="08 Российские каналы",RTVi (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RTVi/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" group-title="08 Российские каналы",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" group-title="08 Российские каналы",TV1000 Russian Kino Global
+http://213.91.179.28:8000/play/a0bx
+#EXTINF:-1 tvg-id="MirBelogorya.ru@SD" group-title="08 Российские каналы",Мир Белагорья (720p) [Geo-blocked]
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru@SD" group-title="08 Российские каналы",Мир Белогорья (720p) [Geo-blocked]
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="08 Российские каналы",Пятница! (576p)
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru@SD" group-title="08 Российские каналы",Союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru@SD" group-title="08 Российские каналы",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" group-title="08 Российские каналы",Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="08 Российские каналы",Channel One (576p)
+http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
+#EXTINF:-1 tvg-id="STARTAir.ru@SD" group-title="08 Российские каналы",START Air (576p)
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STARTWorld.ru@SD" group-title="08 Российские каналы",START World (576p)
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" group-title="08 Российские каналы",Channel One CIS (576p)
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STARTAir.ru@SD" group-title="08 Российские каналы",START Air (1080p)
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD" group-title="08 Российские каналы",Novorossiya TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" group-title="08 Российские каналы",Channel One Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="08 Российские каналы",RT en Espanol (1080p)
+http://168.196.127.137:6001/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="08 Российские каналы",Channel One (576p)
+http://31.148.5.241/kanal_1/index.m3u8
+#EXTINF:-1 tvg-id="RussianExtremeUltra.ru@SD" group-title="08 Российские каналы",Russian Extreme Ultra (1440p)
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+#EXTINF:-1  tvg-id="pobeda" tvg-logo="https://ngrch.github.io/iptv/logos/pobeda.png" group-title="09 Природа и путешествия", Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1  tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png" group-title="09 Природа и путешествия", Viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png" group-title="09 Природа и путешествия", Viju Explore (2)
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1  tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png" group-title="09 Природа и путешествия", Viju History (2)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png" group-title="09 Природа и путешествия", Viju History (3)
+http://178.124.179.122/HistoryHD/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png" group-title="09 Природа и путешествия", Viju History (4)
+http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1  tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png" group-title="09 Природа и путешествия", Viju Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1  tvg-id="discovery-channel" tvg-logo="https://ngrch.github.io/iptv/logos/discovery.png" group-title="09 Природа и путешествия", Discovery (2)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", National Geographic (2)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", National Geographic Wild (2)
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", ZooПарк Зоопарк (2)
+http://31.210.208.171:8080/zoopark/index.m3u8?token=+W2MSER
+#EXTINF:-1  group-title="09 Природа и путешествия", Живая Планета (2)
+http://stream.mcquack.net/83/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Живая природа (2)
+http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Дикая охота (2)
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Дикая рыбалка
+http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Охота и рыбалка (2)
+http://stream.mcquack.net/155/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Охота и рыбалка (4)
+http://185.121.1.163:8083/OhotaRybalka/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Диалоги о рыбалке
+http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Телепутешествия
+http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Travel+Adventure
+http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Travel+Adventure (2)
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Travel Channel
+http://stream.mcquack.net/231/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Travel XP
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Animal Planet (2)
+http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", В мире животных (2)
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Кухня (2)
+http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
+#EXTINF:-1  group-title="09 Природа и путешествия", Кухня (3)
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Food Time
+http://89.33.29.115:8080/Eda/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Наука (2)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", Среда | Дагестан
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
+#EXTINF:-1  group-title="09 Природа и путешествия", ТНВ Планета | Татарстан
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1  group-title="09 Природа и путешествия", ТНВ Планета (2) | Татарстан
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru@SD" group-title="09 Природа и путешествия",FoodTime (1080p)
+http://stream.mcquack.net/216/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" group-title="09 Природа и путешествия",viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru@SD" group-title="09 Природа и путешествия",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" group-title="09 Природа и путешествия",Travel+Adventure (576p)
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" group-title="09 Природа и путешествия",viju Explore (576p)
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" group-title="09 Природа и путешествия",viju History (576p)
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="09 Природа и путешествия",viju Nature (576p)
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" group-title="09 Природа и путешествия",National Geographic (576p)
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" group-title="09 Природа и путешествия",National Geographic Wild (576p)
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" group-title="09 Природа и путешествия",National Geographic (1080p)
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" group-title="09 Природа и путешествия",viju Explore (576p)
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" group-title="09 Природа и путешествия",viju History (576p)
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="09 Природа и путешествия",viju Nature (576p)
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD" group-title="09 Природа и путешествия",National Geographic Wild HD
+http://178.76.68.60:7442/50/mpegts
+#EXTINF:-1 tvg-id="AnimalPlanet.ru@SD" group-title="09 Природа и путешествия",Animal Planet (1080p)
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ru@SD" group-title="09 Природа и путешествия",Food Network (1080p)
+http://stream.mcquack.net/298/index.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="10 Мосфильм",Mosfilm Gold Collection (576p)
+http://31.222.235.15/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="10 Мосфильм",Mosfilm Gold Collection (576p)
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="10 Мосфильм",Mosfilm Gold Collection (576p)
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1  tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png" group-title="10 Мосфильм", Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1  tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png" group-title="10 Мосфильм", Мосфильм Золотая коллекция (2)
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1  tvg-id="domkino" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png" group-title="11 Кино и сериалы", Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1  tvg-id="domkino-int" tvg-logo="https://ngrch.github.io/iptv/logos/dom_kino.png" group-title="11 Кино и сериалы", Дом Кино International
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1  tvg-id="domkino-premium" tvg-logo="https://ngrch.github.io/iptv/logos/dom_premium.png" group-title="11 Кино и сериалы", Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1  tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png" group-title="11 Кино и сериалы", Кинокомедия (2)
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1  tvg-id="kinokomedia-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png" group-title="11 Кино и сериалы", Кинокомедия International
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1  tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="11 Кино и сериалы", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1  tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="11 Кино и сериалы", Кинопремьера (2)
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1  tvg-id="kinoxit" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png" group-title="11 Кино и сериалы", Кинохит
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1  tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="11 Кино и сериалы", Киносерия (2)
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1  tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png" group-title="11 Кино и сериалы", Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1  tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png" group-title="11 Кино и сериалы", Мужское кино (2)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кино ТВ
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1  group-title="11 Кино и сериалы", Киномикс (2)
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киномикс (3)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киносвидание (3)
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киносемья (2)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киносемья (3)
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Киносезон
+https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноМеню
+https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Родное кино (2)
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Родное кино (3)
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинопоказ (2)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинопоказ (3)
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Еврокино (2)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кино 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кино 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Классика Кино (2)
+https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", MovieToper
+https://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1  group-title="11 Кино и сериалы", TimeToMovie
+https://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Alex.Films
+https://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1  group-title="11 Кино и сериалы", VHS кино
+https://kinowalk.hopto.org/and7610_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Cinema Time
+https://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Тоха Киноман
+https://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1  group-title="11 Кино и сериалы", film4khdLIVE
+https://kinowalk.hopto.org/film4khdclub_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Детское кино
+https://kino-1.catcast.tv/content/40427/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Retrovision Кинопанорама
+https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Retrovision Movies
+https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 1
+https://lbgo.bozztv.com/07/ushba82/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 2
+https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 3
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 4
+https://lbgo.bozztv.com/07/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 5
+https://lbgo.bozztv.com/07/ushba-rfilrms-c/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 6
+https://lbgo.bozztv.com/07/ushba-rfilrms-d/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 7
+https://lbgo.bozztv.com/07/ushba-rfilrms-e/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 8
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 9
+https://lbgo.bozztv.com/07/ushba-rfilrms-i/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 10
+https://lbgo.bozztv.com/07/ushba-rfilrms-p/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 11
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 12
+https://lbgo.bozztv.com/07/ushba-rfilrms-z/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 13
+https://lbgo.bozztv.com/07/ushba64/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Кинозалы 14
+https://lbgo.bozztv.com/07/ushba65/index.m3u8
+
+#EXTINF:-1 tvg-id="SilkWayCinema.kz@SD" tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png"  group-title="11 Кино и сериалы",Silk Way Cinema (1080p) [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="11 Кино и сериалы",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="11 Кино и сериалы",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" group-title="11 Кино и сериалы",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="11 Кино и сериалы",Cinema (576p)
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru@HD" group-title="11 Кино и сериалы",Velvet. European Movies (1080p)
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" group-title="11 Кино и сериалы",viju+ Premiere HD (1080p)
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru@SD" group-title="11 Кино и сериалы",Match! Premier (480p) [Geo-blocked]
+http://192.162.64.99:5000/play/a02b/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Sport (2)
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="11 Кино и сериалы",viju+ Sport (576p)
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="11 Кино и сериалы",viju+ Sport (576p)
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" group-title="11 Кино и сериалы",viju+ Sport HD (1080p)
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="11 Кино и сериалы",viju+ Sport (576p)
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Мультфильмы
+https://lbgo.bozztv.com/07/ushba80/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Союзмультфильмы
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Comedy (2)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Мультфильмы VHS
+https://kinowalk.hopto.org/myvhs_live
+#EXTINF:-0  group-title="11 Кино и сериалы", VHS Forever
+https://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Кладовая Фильмов
+https://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Эра VHS
+https://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1  group-title="11 Кино и сериалы", Retrovision
+https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Retrovision Motor
+https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Retrovision Classic
+https://lbgo.bozztv.com/07/ushba-rvisionclassic/index.m3u8
+#EXTINF:-1  group-title="11 Кино и сериалы", Viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru@HD" group-title="11 Кино и сериалы",Bollywood HD (576p)
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" group-title="11 Кино и сериалы",viju+ Comedy HD (1080p)
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD" group-title="11 Кино и сериалы",viju+ Megahit HD (1080p)
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" group-title="11 Кино и сериалы",viju+ Serial HD (1080p)
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz@SD" tvg-logo="https://31.kz/noimage.png"  group-title="12 Казахстан",31 Kanal (576p)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 tvg-id="AbaiTV.kz@SD" tvg-logo="https://i.imgur.com/Nw2R7Dq.png"  group-title="12 Казахстан",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlauTV.kz@SD" tvg-logo="https://i.imgur.com/gK6ZRzp.png"  group-title="12 Казахстан",Alau TV (576p)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz@SD" tvg-logo="https://i.imgur.com/Mjqwt8C.png"  group-title="12 Казахстан",Almaty TV (576p)
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Aqjaiyq.kz@SD" tvg-logo="https://i.imgur.com/ZqIzzmf.png"  group-title="12 Казахстан",Aqjaiyq (576p)
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-id="Aqtobe.kz@SD" tvg-logo="https://i.imgur.com/csKl1z6.png"  group-title="12 Казахстан",Aqtobe (576p)
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astana_TV_Logo.png"  group-title="12 Казахстан",Astana TV (576p)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz@SD" tvg-logo="https://i.imgur.com/CfRvm8i.png"  group-title="12 Казахстан",Atameken Business (576p)
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Atyray.kz@SD" tvg-logo="https://i.imgur.com/kva4O3T.png"  group-title="12 Казахстан",Atyray (720p)
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png"  group-title="12 Казахстан",Balapan (576p)
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png"  group-title="12 Казахстан",Balapan HD (1080p)
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png"  group-title="12 Казахстан",Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.kz@SD" tvg-logo="https://i.imgur.com/LebKU09.png"  group-title="12 Казахстан",Channel 7 (Kazakhstan) (576p)
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 tvg-id="Ertis.kz@SD" tvg-logo="https://i.imgur.com/tghMiwW.png"  group-title="12 Казахстан",Ertis (1080p) [Not 24/7]
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-id="JibekJoly.kz@SD" tvg-logo="https://i.imgur.com/SqyXtgK.png"  group-title="12 Казахстан",Jibek Joly (576p)
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="JibekJoly.kz@HD" tvg-logo="https://i.imgur.com/SqyXtgK.png"  group-title="12 Казахстан",Jibek Joly HD (1080p)
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Khabar.kz@SD" tvg-logo="https://i.imgur.com/xG3HxId.png"  group-title="12 Казахстан",Khabar (576p)
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoBoevik.kz@SD" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png"  group-title="12 Казахстан",KinoBoevik (1080p)
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kokshe.kz@SD" tvg-logo="https://i.imgur.com/pOR3FSR.png"  group-title="12 Казахстан",Kokshe (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-id="KTK.kz@SD" tvg-logo="https://i.imgur.com/BurrNTo.png"  group-title="12 Казахстан",KTK (576p)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png"  group-title="12 Казахстан",KTK HD (720p) [Not 24/7]
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="Mangystay.kz@SD" tvg-logo="https://i.imgur.com/9JfLseu.png"  group-title="12 Казахстан",Mangystay (540p) [Not 24/7]
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-id="Mirovoekino.kz@SD" tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png"  group-title="12 Казахстан",Mirovoe kino (1080p)
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MTRK.kz@SD" tvg-logo="https://i.imgur.com/XMyRwDk.png"  group-title="12 Казахстан",MTRK (576p)
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png"  group-title="12 Казахстан",Novoe televidenie (576p)
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NTK.kz@SD" tvg-logo="https://i.imgur.com/hHSCH4L.png"  group-title="12 Казахстан",NTK (576p)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png"  group-title="12 Казахстан",Qazaqstan (576p)
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Qazaqstan.kz@HD" tvg-logo="https://i.imgur.com/oI8g396.png"  group-title="12 Казахстан",Qazaqstan HD (1080p)
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-id="QonaevMedia.kz@SD" tvg-logo="https://i.imgur.com/JLlqgdp.png"  group-title="12 Казахстан",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 tvg-id="Qostanai.kz@SD" tvg-logo="https://i.imgur.com/eOz4xJ8.png"  group-title="12 Казахстан",Qostanai (576p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzyljar.kz@SD" tvg-logo="https://i.imgur.com/7l1WSDJ.png"  group-title="12 Казахстан",Qyzyljar (720p)
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzylorda.kz@SD" tvg-logo="https://i.imgur.com/r4BFQpE.png"  group-title="12 Казахстан",Qyzylorda (720p)
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title="12 Казахстан", like Gecko) Chrome/149.0.0.0 Safari/537.3" ,RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="Saryarqa.kz@SD" tvg-logo="https://i.imgur.com/EIXwi1c.png"  group-title="12 Казахстан",Saryarqa (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-id="Semei.kz@SD" tvg-logo="https://i.ibb.co/P9V0532/Captura.png" http-referrer="https://qazaqstan.tv/"  group-title="12 Казахстан",Semei (1080p)
+#EXTVLCOPT:http-referrer=https://qazaqstan.tv/
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-logo="https://i.imgur.com/SJNDksF.png"  group-title="12 Казахстан",Silk Way (1080p)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-id="SportPlusQazaqstan.kz@SD" tvg-logo="https://i.imgur.com/vIV7x6n.png"  group-title="12 Казахстан",Sport+ Qazaqstan (1080p)
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TDK42.kz@SD" tvg-logo="https://i.imgur.com/iVhdcS7.png"  group-title="12 Казахстан",TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TuranTV.kz@SD" tvg-logo="https://i.imgur.com/VagTPMo.png"  group-title="12 Казахстан",Turan TV (576p)
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Ulytau.kz@SD" tvg-logo="https://i.imgur.com/jTL6TvC.png"  group-title="12 Казахстан",Ulytau
+https://ulytau.tv/hls/master.m3u8
+#EXTINF:-1  group-title="12 Казахстан", Qazaqstan | Казахстан
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@Kazakhstan" group-title="12 Казахстан",Mir Kazakhstan (576p)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru@Kazakhstan" group-title="12 Казахстан",Friday! International Kazakhstan (576p)
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" http-referrer="https://muzzone.tv/"  group-title="13 Музыка",MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 tvg-id="ClassicMusic.ru@SD" group-title="13 Музыка",Classic Music (1080p)
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="13 Музыка",Fon Music (1080p)
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="13 Музыка",Fon Music (576p)
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" group-title="13 Музыка",1HD Music Television (1080p)
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="LiveMusicChannel.ru@HD" group-title="13 Музыка",Live Music Channel HD (1080p)
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png" group-title="13 Музыка", RU.TV РУ.ТВ
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png" group-title="13 Музыка", RU.TV РУ.ТВ (3)
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" group-title="13 Музыка",Mult i muzyka (576p)
+http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" group-title="13 Музыка",Mult i muzyka (576p)
+http://stream.mcquack.net/82/index.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
+http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
+http://185.71.81.6:8080/20/index.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" group-title="13 Музыка",Muzyka Live (576p)
+http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" group-title="13 Музыка",Muzyka Pervogo (576p)
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 tvg-id="Radio1.ru@SD" group-title="13 Музыка",Radio 1 (720p) [Geo-blocked]
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1 tvg-id="RadioRossii.ru@HD" group-title="13 Музыка",Radio Rossii (720p)
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1 tvg-id="RUTVKids.ru@SD" group-title="13 Музыка",RU.TV Kids (720p)
+https://rutvkids.ru/live/efir/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" group-title="13 Музыка",Smotrim 100% Muzhskoe (720p)
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" group-title="13 Музыка",Радио Говорит Москва (Веб-камера) (720p)
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru@SD" group-title="13 Музыка",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="555.ru@SD" group-title="13 Музыка",Телерадиокомпания 555 (Алушта) (720p)
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="13 Музыка",Шансон ТВ (576p) [Geo-blocked]
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="13 Музыка",Шансон ТВ (512p) [Geo-blocked]
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" group-title="13 Музыка",Muzyka Pervogo (576p)
+http://88.212.15.19/live/test_muzyka_pervogo/playlist.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" group-title="13 Музыка",Muzhskoe kino (576p)
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
+https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="13 Музыка",RU.TV (576p)
+https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
+http://31.148.5.241/kanal_20/index.m3u8
+#EXTINF:-1  tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png" group-title="14 Остальные", Матч! (2)
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1  tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png" group-title="14 Остальные", Матч! (3)
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Арена
+http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
+#EXTINF:-1  group-title="14 Остальные", Матч! Страна
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Футбол 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Футбол 3
+http://185.57.68.33/110/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Футбол 3 (2)
+http://176.100.46.245:90/matchfootball3/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Боец
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Игра
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Матч! Премьер
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Окко Футбол
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Setanta Sports 1 (2)
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Setanta Sports 2 (2)
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" group-title="14 Остальные",Extreme Sports Channel (576p)
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" group-title="14 Остальные",Sportivnyy (1080p)
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" group-title="14 Остальные",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" group-title="14 Остальные",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" group-title="14 Остальные",Extreme Sports Channel (576p)
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="SetantaSports1.ru@HD" group-title="14 Остальные",Setanta Sports 1 HD
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1  tvg-id="muztv" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png" group-title="14 Остальные", Муз ТВ (3)
+http://stream.mcquack.net/86/index.m3u8
+
+#EXTINF:-1  tvg-id="pervy" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" group-title="14 Остальные", Первый (2)
+https://serv30.vintera.tv/restream/1_old/playlist.m3u8
+#EXTINF:-1  tvg-id="otr" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png" group-title="14 Остальные", ОТР (3)
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
+#EXTINF:-1  tvg-id="tv3-ru" tvg-logo="https://ngrch.github.io/iptv/logos/tv3.png" group-title="14 Остальные", ТВ3 (2)
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1  tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="14 Остальные", Viju TV1000 (2)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-russkoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png" group-title="14 Остальные", Viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1  tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="14 Остальные", Viju TV1000 Action (2)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="14 Остальные", Viju TV1000 Action (3)
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (2)
+http://t1.tv.kvant-telecom.ru:8080/2x2/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (3)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (4)
+http://185.23.80.23:8080/2x2/index.m3u8
+#EXTINF:-1  tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png" group-title="14 Остальные", Солнце (2)
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1  tvg-id="ani" tvg-logo="https://ngrch.github.io/iptv/logos/ani.png" group-title="14 Остальные", Ani
+http://t1.tv.kvant-telecom.ru:8080/ani/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="14 Остальные", Суббота (2)
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1  tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="14 Остальные", Суббота (3)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+#EXTINF:-1  tvg-id="nst" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png" group-title="14 Остальные", НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1  tvg-id="moskva-24" tvg-logo="https://ngrch.github.io/iptv/logos/m24.png" group-title="14 Остальные", Москва 24 (М24)
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1  tvg-id="doverie" group-title="14 Остальные", Москва Доверие (2)
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1  tvg-id="nastoyaschee-vremia" tvg-logo="https://ngrch.github.io/iptv/logos/ctime.png" group-title="14 Остальные", Настоящее время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1  group-title="14 Остальные", ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", CNN
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RTД
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", RTД (2)
+https://cdn-01.bonus-tv.ru/rtdoc/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RTД (3)
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1  group-title="14 Остальные", РЖД
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", РЖД (2)
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Вместе РФ (2)
+https://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Аква
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Эхо
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Маша и Медведь
+https://lbgo.bozztv.com/07/ushba79/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Fan
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Мама (2)
+http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Nickelodeon (2)
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Nick Jr.
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Смайл (2)
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Cartoon Network
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Шаян (2)
+https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", МультСказки
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1  group-title="14 Остальные", NikNik
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1  group-title="14 Остальные", О!
+http://stream.mcquack.net/60/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Tiji (2)
+http://stream.mcquack.net/111/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Gulli Girl (2)
+http://stream.mcquack.net/305/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Капитан Фантастика (2)
+http://stream.mcquack.net/144/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Удар Udar
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Удар Udar (2)
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8
+#EXTINF:-1  group-title="14 Остальные", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+#EXTINF:-1  group-title="14 Остальные", Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
+#EXTINF:-1  group-title="14 Остальные", MMA
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", КХЛ KHL Prime
+https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv
+#EXTINF:-1  group-title="14 Остальные", КХЛ KHL Prime (2)
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Мото Драйв
+https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", WWE
+https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Продвижение (2)
+https://prodvizhenie.mediacdn.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Твоё ТВ
+https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Перец
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", TLC
+http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Теледом
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тео-ТВ
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Fashion (2)
+https://lbgo.bozztv.com/07/ushba93/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Fashion (3)
+https://fashionlive.mediacdn.ru/cdn/fashiontv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", World Fashion
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", World Fashion (2)
+https://cdn.wfc.tv/cdn/stream-rus.m3u8
+#EXTINF:-1  group-title="14 Остальные", Luxury
+https://s1.tv-nano.com/Luxury_rec/video.m3u8
+#EXTINF:-1  group-title="14 Остальные", 7 TV
+https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Толк (2)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", RuTube
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Инсайт (2)
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Gagsnetwork
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", PV+
+http://stream.mcquack.net/397/index.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", .black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", .Red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", .Red (2)
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", .Sci-Fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", FX
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", FX Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Дорама (2)
+http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", OVAA
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Amedia Premium
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Viasat Kino Comedy
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1  group-title="14 Остальные", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Ретро (3)
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Комедия (2)
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Комедийное
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Премиальное
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-0  group-title="14 Остальные", Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0  group-title="14 Остальные", Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0  group-title="14 Остальные", Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0  group-title="14 Остальные", Ты супер!
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1  group-title="14 Остальные", Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", TV12
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Хит
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Blokbaster
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Душевное
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Наше
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТВ21
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Арт
+http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1  group-title="14 Остальные", KinoLiving
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Fresh Fantastic
+http://stream.mcquack.net/429/index.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", Disney XD
+https://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1  group-title="14 Остальные", JTX
+https://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1  group-title="14 Остальные", FoxKids
+https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1  group-title="14 Остальные", grislytoe
+https://kinowalk.hopto.org/grislytoe_live
+#EXTINF:-1  group-title="14 Остальные", ВсеТВ
+https://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:-1  group-title="14 Остальные", Kinowalk
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1  group-title="14 Остальные", Legion
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1  group-title="14 Остальные", Video_Prokat
+https://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1  group-title="14 Остальные", Blockbusters Time
+https://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1  group-title="14 Остальные", Kinolampa
+https://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1  group-title="14 Остальные", VideoArsenal
+https://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1  group-title="14 Остальные", Kino Jam
+https://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1  group-title="14 Остальные", Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1  group-title="14 Остальные", SeleCaoTV
+https://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1  group-title="14 Остальные", SeleCaoTV1
+https://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1  group-title="14 Остальные", SerialTV
+https://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1  group-title="14 Остальные", Serial4u
+https://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1  group-title="14 Остальные", Первый ряд
+https://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1  group-title="14 Остальные", Baragozz
+https://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1  group-title="14 Остальные", Кассета
+https://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1  group-title="14 Остальные", Мы из 90-х
+https://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1  group-title="14 Остальные", Aisman
+https://kinowalk.hopto.org/aisman_live
+#EXTINF:-0  group-title="14 Остальные", LampoTV
+https://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1  group-title="14 Остальные", Video Channel
+https://kinowalk.hopto.org/video_channel_live
+#EXTINF:-0  group-title="14 Остальные", swat2k
+https://kinowalk.hopto.org/swat2k_live
+#EXTINF:-0  group-title="14 Остальные", Wfliq
+https://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1  group-title="14 Остальные", Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1  group-title="14 Остальные", Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1  group-title="14 Остальные", ChowAmigo
+https://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1  group-title="14 Остальные", TopMoment
+https://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1  group-title="14 Остальные", TopMoment Live
+https://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1  group-title="14 Остальные", Назад в СССР
+https://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1  group-title="14 Остальные", InMuNa
+https://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1  group-title="14 Остальные", IGROComp
+https://kinowalk.hopto.org/igrocomp_live
+#EXTINF:-1  group-title="14 Остальные", Kycman
+https://kinowalk.hopto.org/kycman_live
+#EXTINF:-1  group-title="14 Остальные", dj Zour
+https://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1  group-title="14 Остальные", Priest_kod
+https://kinowalk.hopto.org/priest_kod_live
+#EXTINF:-1  group-title="14 Остальные", Kinofon
+https://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1  group-title="14 Остальные", KinoMix 1
+https://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1  group-title="14 Остальные", KinoMix 2
+https://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1  group-title="14 Остальные", Тоха Стрим
+https://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1  group-title="14 Остальные", Осторожно Модерн
+https://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1  group-title="14 Остальные", У края бездны
+https://kinowalk.hopto.org/ddator_live
+#EXTINF:-1  group-title="14 Остальные", MAX
+https://kinowalk.hopto.org/maximum_live
+#EXTINF:-1  group-title="14 Остальные", NEZABUDKA
+https://kinowalk.hopto.org/nezabudka_live
+#EXTINF:-1  group-title="14 Остальные", FRXNKL1N
+https://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1  group-title="14 Остальные", RE_BOOT
+https://kinowalk.hopto.org/re_boot_live
+#EXTINF:-1  group-title="14 Остальные", 1st_witch
+https://kinowalk.hopto.org/witch_live
+#EXTINF:-1  group-title="14 Остальные", АPRICUS
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:-1  group-title="14 Остальные", ВИДЕОКАССЕТА
+https://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1  group-title="14 Остальные", Х-TV
+https://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1  group-title="14 Остальные", Kira_freak
+https://kinowalk.hopto.org/kirafreak_live
+#EXTINF:-1  group-title="14 Остальные", Dimpon
+http://kinowalk.hopto.org/dimpon_live
+
+#EXTINF:-1  group-title="14 Остальные", 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1  group-title="14 Остальные", 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1  group-title="14 Остальные", 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1  group-title="14 Остальные", 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1  group-title="14 Остальные", 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", TVBoom
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", Шоу Бенни Хилла
+https://lbgo.bozztv.com/07/ushba62/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Мистер Бин
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Авто 24 (2)
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1  group-title="14 Остальные", Авто 24 (3)
+http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Техно 24 Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1  group-title="14 Остальные", ПРНК
+https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", BRICS (2)
+https://origin5.mediacdn.ru/live/brics/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", BRICS (3)
+http://185.23.80.23:8080/TVBRICS/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Terra Incognita
+https://stitch.teletarget.ru/vintera/terra/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тонус
+http://194.143.148.28/Mir24/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Усадьба (2)
+http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Загородная жизнь
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Точка.РФ
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:-1  group-title="14 Остальные", Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Univer (Универ)
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Univer HD (Универ)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Моя стихия
+http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", 555 Hunt Fishing TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Охотник и рыболов (2)
+http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Охотник и рыболов Int.
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1  group-title="14 Остальные", Мужской (2)
+http://89.33.29.115:8080/Muzhskoy/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", One Planet
+http://stream.mcquack.net/448/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Конгресс
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Конгресс (2)
+https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", 365 дней
+http://stream.mcquack.net/70/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Kulinar
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1  group-title="14 Остальные", Оружие
+http://89.33.29.115:8080/Oruzhie/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Глазами туриста (2)
+http://stream.mcquack.net/304/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Глазами туриста (3)
+http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Nano Нано
+http://stream.mcquack.net/419/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Nano Нано (2)
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Живи! (2)
+http://89.33.29.115:8080/Zhivi/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RTG
+http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Доктор (2)
+http://stream.mcquack.net/80/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Доктор (3)
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", The explorers
+http://stream.mcquack.net/450/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Живи активно (2)
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+#EXTINF:-1  group-title="14 Остальные", Полет
+http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RAZ 1
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RAZ 2
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", RAZ 3
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Трофей
+http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Магнат
+https://s1.tv-nano.com/Magnat/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Joy Cook
+https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1  group-title="14 Остальные", Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Бог Благ
+https://glorystarplus.tv/BogBlagTV/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Хузур
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1  group-title="14 Остальные", Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Благая Весть
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
+
+#EXTINF:-1  group-title="14 Остальные", Беларусь 1 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 2 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 3 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 4 | Беларусь
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 5 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 5 (2) | Беларусь
+http://stream.mcquack.net/33/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 5 (3) | Беларусь
+http://radio.tvs.by/BT5/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 24 | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Беларусь 24 (2) | Беларусь
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Витебск | Беларусь
+https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый информационный | Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", СТВ | Беларусь
+https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", СТВ (2) | Беларусь
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Крымский | Крым
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1  group-title="14 Остальные", Миллет | Крым
+https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1  group-title="14 Остальные", Крым 24 | Крым
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1  group-title="14 Остальные", Крым 24 (2) | Крым
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1  group-title="14 Остальные", Симферополь 24 | Крым
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1  group-title="14 Остальные", НТС | Севастополь
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Белгород 24 | Белгородская область
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Республиканский | ДНР
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1  group-title="14 Остальные", 24 | Луганск
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1  group-title="14 Остальные", Север | Ненецкий АО
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", РТВ | Раменск
+https://e10-ll.facecast.net/rtv/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", 10 канал (2) | Новокузнецк
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", 12 канал (2) | Омск
+https://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", 12 канал (3) | Омск
+https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Обком | Омск
+https://www.omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:-1  group-title="14 Остальные", Омск ТВ (2) | Омск
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Енисей | Красноярск
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Енисей (3) | Красноярск
+https://tshift-1.telecoma.tv/enisei/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТВК (2) | Красноярск
+http://air.tvk6.ru/tvk24/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Прима (2) | Красноярск
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", АСТВ (2) | Сахалинская область
+https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
+#EXTINF:-1  group-title="14 Остальные", АТВ (3) | Ставрополь
+http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1  group-title="14 Остальные", Свое | Ставрополь
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Аист (2) | Иркутская область
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТСТ | Иркутская область
+http://5.183.155.8:88/stream.m3u8
+#EXTINF:-1  group-title="14 Остальные", Архыз 24 | Карачаево-Черкесия
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Архыз 24 (2) | Карачаево-Черкесия
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1  group-title="14 Остальные", Astrakhan.RU | Астрахань
+https://streaming.astrakhan.ru/astrakhanrulivehd/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Астрахань 24 | Астрахань
+https://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Культ Медиа | Астрахань
+https://streaming.astrakhan.ru/telplushd/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Культ Медиа (2) | Астрахань
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Продвижение (2) | Астрахань
+https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", БСТ 24 (2) | Братск
+https://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Брянская Губерния | Брянск
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1  group-title="14 Остальные", Ветта 24 | Пермь
+https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Рифей (2) | Пермь
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7e16kFowncLriG9eElNY7g&e=2070623512&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Волга 24 (2) | Нижний Новгород
+http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Нижний новгород 24 | Нижний Новгород
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Волгоградский | Волгоградская область
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Волжский+ | Волгоградская область
+http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
+#EXTINF:-1  group-title="14 Остальные", РГВК (2) | Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Девятка (2) | Киров
+https://devyatka.iptv2022.com/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Дон 24 (2) | Ростов-на-Дону
+https://donmedia.bonus-tv.ru/cdn/donmedia/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Ростовский | Ростов-на-Дону
+https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Евразия | Орск
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1  group-title="14 Остальные", Барс (2) | Иваново
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Краснодар | Краснодарский край
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Сочи 24 (2) | Краснодарский край
+https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Сочи Live | Краснодарский край
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", GLN 24 | Краснодарский край
+https://serv25.vintera.tv/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Липецкое время 24 | Липецкая область
+https://serv25.vintera.tv/liptime/liptime/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Липецкое время 24 (3) | Липецкая область
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+#EXTINF:-1  group-title="14 Остальные", Липецк 24 | Липецкая область
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
+#EXTINF:-1  group-title="14 Остальные", НВК Саха | Якутия
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Якутия 24 (2) | Якутия
+https://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Алмазный край (2) | Якутия
+https://stream.almaz-media.tv/hls/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", К16 Саров | Нижегородская область
+https://serv25.vintera.tv/test/k16/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Саров 24 | Нижегородская область
+https://serv30.vintera.tv/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", НТМ (2) | Мордовия
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Мордовия 24 | Мордовия
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Ника (2) | Калужская область
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Новый век (2) | Тамбов
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Крик | Свердловская область
+https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Крик (2) | Свердловская область
+https://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", 4 канал | Свердловская область
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Эхо 24 | Свердловская область
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1  group-title="14 Остальные", ПТВ | Свердловская область
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
+#EXTINF:-1  group-title="14 Остальные", ОТС (2) | Новосибирск
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Осетия Ирыстон (2) | Владикавказ
+http://catchup.videoline.ru/iriston/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Осетия Ирыстон (3) | Владикавказ
+https://osir.mediacdn.ru/cdn/osetia/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тверской проспект (2) | Тверская область
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Тульский (2) | Тульская область
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Первый Псковский | Псковская область
+https://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", ЯПервый (2) | Ярославская область
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Истоки (2) | Орловская область
+https://istoki.tv/live/stream1/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Про жизнь (2) | Кемеровская область
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="14 Остальные", ЗРТК (2) | Забайкальский край
+https://stream.zrtk.ru/zrtk.m3u8
+#EXTINF:-1  group-title="14 Остальные", Самара ГИС (2) | Самарская область
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="14 Остальные", Санкт-Петербург (2)
+https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Санкт-Петербург (3)
+https://edge-ekat1.teletarget.ru/stream/msk/tvspb/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Саратов 24 (2) | Саратовская область
+http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Абакан 24 | Хакасия
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=lbRb3zr0EFJczX70hVvgfw&e=2070623508&scheme=https
+#EXTINF:-1  group-title="14 Остальные", ТКР (2) | Рязань
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", С1 (2) | Сургут
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1  group-title="14 Остальные", С86 (2) | Сургут
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1  group-title="14 Остальные", Тивиком (2) | Бурятия
+https://stream.trafjam.ru/tvcom/studio/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Жизнь Глазова | Удмуртская Республика
+https://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:-1  group-title="14 Остальные", ДимГрад 24 | Ульяновск
+https://live-3.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", 41 | Щелково
+http://stream0.tv41.ru/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Экспресс (2) | Пенза
+https://fhtrc6b9861.a.trbcdn.net/livemaster/zolwjjzp0b_testtrk/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Наш дом | Пенза
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТНВ (2) | Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", НТРК Магас | Ингушетия
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", МТРК | Казахстан
+https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", КТК | Казахстан
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Новое | Казахстан
+https://serv25.vintera.tv/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Рика | Казахстан
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Таврия | Херсонская область
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1  group-title="14 Остальные", За! | Запорожская область
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1  group-title="14 Остальные", Грозный | Чеченская республика
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1  group-title="14 Остальные", ОшТВ | Кыргызстан
+http://212.42.117.34:8080/hls/OshTV.m3u8
+#EXTINF:-1  group-title="14 Остальные", TV1 KG | Кыргызстан
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1  group-title="14 Остальные", ТСВ | Приднестровье
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Солнечный | Узбекистан
+https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/index.m3u8
+#EXTINF:-1  group-title="14 Остальные", Аист | Орехово-Зуево
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:-1  group-title="14 Остальные", Кварц | Подольск
+http://109.94.1.3/25/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="14 Остальные",2x2 SD (576p)
+http://stream.mcquack.net/187/index.m3u8
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="14 Остальные",5 minut tishiny (1080p)
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 tvg-id="red.ru@SD" group-title="14 Остальные",.red (576p)
+http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 tvg-id="Afontovo.ru@SD" group-title="14 Остальные",Afontovo
+https://stream.afontovo.ru/hd.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD" group-title="14 Остальные",Ani (576p)
+http://46.32.176.50/anitv/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD" group-title="14 Остальные",Ani (576p)
+http://stream.mcquack.net/306/index.m3u8
+#EXTINF:-1 tvg-id="Balabol.ru@SD" group-title="14 Остальные",Balabol (1080p)
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" group-title="14 Остальные",Boks TV (576p)
+http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="14 Остальные",Bolt (576p)
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="14 Остальные",BRIDGE (576p)
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" group-title="14 Остальные",BRIDGE Classic (576p)
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD" group-title="14 Остальные",BRIDGE Deluxe HD (576p)
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" group-title="14 Остальные",BRIDGE Hits (576p)
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@Plus4" group-title="14 Остальные",Carousel (720p)
+http://185.37.150.46/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="14 Остальные",Carousel (576p)
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="14 Остальные",Carousel SD (576p)
+http://stream.mcquack.net/120/index.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" group-title="14 Остальные",Channel 5 International (576p)
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" group-title="14 Остальные",Channel 5 International (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" group-title="14 Остальные",Channel 8 (576p)
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" group-title="14 Остальные",Channel 8 (576p)
+http://hls127.freeott.top:8080/8_KANAL/video.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" group-title="14 Остальные",Channel 8 (576p)
+http://tshift-1.telecoma.tv/8channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" group-title="14 Остальные",Channel 8 (576p)
+http://v4.proofix.ru/okino-tv/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" group-title="14 Остальные",Channel 8 (576p)
+https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru@HD" group-title="14 Остальные",Channel 8 Krasnoyarsk HD (1080p)
+#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Channel8Novosibirsk.ru@SD" group-title="14 Остальные",Channel 8 Novosibirsk (480i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel10.ru@SD" group-title="14 Остальные",Channel 10 (576i)
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+#EXTINF:-1 tvg-id="Channel12.ru@SD" group-title="14 Остальные",Channel 12 (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7004.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="14 Остальные",Da Vinci (576p)
+http://stream.mcquack.net/238/index.m3u8
+#EXTINF:-1 tvg-id="DanceHits80.ru@SD" group-title="14 Остальные",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="Dikij.ru@SD" group-title="14 Остальные",Dikij (576p)
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru@SD" group-title="14 Остальные",Doctor (576p)
+http://178.134.1.158:8081/doktor/index.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="14 Остальные",Enisey (576p)
+http://tshift-1.telecoma.tv/enisei/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD" group-title="14 Остальные",Europa Plus TV SD (576p)
+http://stream.mcquack.net/184/index.m3u8
+#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" group-title="14 Остальные",Fashion&LifeStyle (1080p)
+http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru@SD" group-title="14 Остальные",Football (576p)
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 tvg-id="Groznyj.ru@SD" group-title="14 Остальные",Groznyj
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="14 Остальные",Gulli Girl (576p)
+https://live-3.otcnet.ru/GulliGirl/index.m3u8
+#EXTINF:-1 tvg-id="Hit.ru@HD" group-title="14 Остальные",Hit HD (1080p)
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 tvg-id="HorosheeKino.ru@SD" group-title="14 Остальные",Horoshee Kino (720p)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="14 Остальные",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="14 Остальные",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru@SD" group-title="14 Остальные",Istoriya (576p)
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+#EXTINF:-1 tvg-id="KHL.ru@SD" group-title="14 Остальные",KHL (576p)
+http://stream.mcquack.net/166/index.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru@SD" group-title="14 Остальные",Kino 24 (720p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@HD" group-title="14 Остальные",Kino TV HD (1080p)
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" group-title="14 Остальные",Kino TV SD (576p)
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" group-title="14 Остальные",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru@HD" group-title="14 Остальные",Kinopokaz HD (1080p)
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="14 Остальные",Kinoseriya (1080p)
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 tvg-id="Kluch.ru@SD" group-title="14 Остальные",Kluch (576p)
+http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-id="KongressTV.ru@SD" group-title="14 Остальные",Kongress TV (1080p)
+https://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-id="KongressTV.ru@SD" group-title="14 Остальные",Kongress TV (1080p)
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="14 Остальные",Kukhnya TV (576p)
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 tvg-id="KulinarTV.ru@SD" group-title="14 Остальные",Kulinar TV (576p)
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" group-title="14 Остальные",KVN TV (576p)
+http://178.124.179.122:8080/KVN-TV/index.m3u8
+#EXTINF:-1 tvg-id="LawTV.ru@SD" group-title="14 Остальные",Law TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/406/index.m3u8
+#EXTINF:-1 tvg-id="Maidan.ru@SD" group-title="14 Остальные",Maidan (720p)
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Maidan.ru@SD" group-title="14 Остальные",Maidan (576p)
+http://hls127.freeott.top:8080/Maydan/video.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru@SD" group-title="14 Остальные",Match! Arena (576p)
+http://stream.mcquack.net/163/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" group-title="14 Остальные",Match! Strana (576p)
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru@SD" group-title="14 Остальные",MCM Top (576p)
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="14 Остальные",Mir (576p)
+http://45.153.24.78/MIR/index.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD" group-title="14 Остальные",Mir 24 (576p)
+http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@HD" group-title="14 Остальные",Mir HD (1080p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (1080p)
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (720p)
+https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (576p)
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Moymir.ru@SD" group-title="14 Остальные",Moy mir (720p)
+https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="14 Остальные",Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="14 Остальные",Moya Planeta (576p)
+http://stream.mcquack.net/124/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru@SD" group-title="14 Остальные",Mult (576p)
+http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru@SD" group-title="14 Остальные",Nashe Lubimoe Kino (576p)
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" group-title="14 Остальные",Nashe Novoe Kino (1080p)
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" group-title="14 Остальные",Nevskiy (1080p)
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="14 Остальные",Nostalgia (576p)
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 tvg-id="NST.ru@SD" group-title="14 Остальные",NST (576p)
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 tvg-id="NST.ru@SD" group-title="14 Остальные",NST (576p)
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 tvg-id="NST.ru@SD" group-title="14 Остальные",NST (576p)
+https://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="14 Остальные",Ocean-TV (576p)
+http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" group-title="14 Остальные",Okko Futbol (576p)
+http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 tvg-id="Patriot.ru@SD" group-title="14 Остальные",Patriot (720p)
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" group-title="14 Остальные",Perviy otdel (1080p)
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+#EXTINF:-1 tvg-id="Pes.ru@SD" group-title="14 Остальные",Pes (1080p)
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru@SD" group-title="14 Остальные",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="ProBusiness.ru@SD" group-title="14 Остальные",Pro Business (720p)
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ProLyubov.ru@SD" group-title="14 Остальные",Pro Lyubov (1080p)
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" group-title="14 Остальные",Prosveshchenie (576p)
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru@SD" group-title="14 Остальные",Radost Moya (576p)
+http://31.148.48.15/Radost_moya/index.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru@SD" group-title="14 Остальные",Radost Moya (576p)
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="14 Остальные",RBK-TV SD (576p)
+http://hls127.freeott.top:8080/RBK/video.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
+http://31.148.48.15/REN-TV/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="14 Остальные",Russkiy roman (576p)
+http://stream.mcquack.net/266/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="14 Остальные",Russkiy roman (576p)
+https://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" group-title="14 Остальные",Sankt-Peterburg HD (720p)
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" group-title="14 Остальные",Saphire (1080p)
+http://77.232.131.211/Sapfir/manifest.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="14 Остальные",Shanson TV (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7009.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="14 Остальные",Shanson TV (576p)
+http://catchup.videoline.ru/shanson/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="14 Остальные",Shanson TV (576p)
+http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
+#EXTINF:-1 tvg-id="Shef.ru@SD" group-title="14 Остальные",Shef (1080p)
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-id="ShoppingLive.ru@SD" group-title="14 Остальные",Shopping Live (720p)
+https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoppingLive.ru@SD" group-title="14 Остальные",Shopping Live (576p) [Not 24/7]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru@SD" group-title="14 Остальные",Shot TV (576p)
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" group-title="14 Остальные",Skoraya pomoshch (1080p)
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="14 Остальные",Smile TV (720p)
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" group-title="14 Остальные",Smotrim 100% Detskoe (720p)
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" group-title="14 Остальные",Smotrim 100% Fakty (720p)
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" group-title="14 Остальные",Smotrim 100% Klassika (720p)
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" group-title="14 Остальные",Smotrim 100% Lyubov (720p)
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" group-title="14 Остальные",Smotrim 100% Prazdnik (720p)
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="14 Остальные",Solnce (576p)
+http://31.148.48.15/Solnce/index.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="14 Остальные",Solnce (576p)
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="14 Остальные",Solnce (576p)
+http://217.114.191.150/Solnce/index.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="14 Остальные",Solnce (576p)
+http://stream.mcquack.net/118/index.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" group-title="14 Остальные",Solovyov Live (1080p)
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" group-title="14 Остальные",Soyuzny (480p)
+http://178.124.179.122:8080/TRO/index.m3u8
+#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="14 Остальные",Spas (576p)
+http://hls127.freeott.top:8080/Spas/video.m3u8
+#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="14 Остальные",Spas (576p)
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS (576p)
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru@SD" group-title="14 Остальные",STS International (576p)
+http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="14 Остальные",STS kids (576p)
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="14 Остальные",STS Love (576p)
+http://hls127.freeott.top:8080/CTC-LOVE/video.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="14 Остальные",STS Love (576p)
+http://stream.mcquack.net/183/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS SD (576p)
+http://45.153.24.78/STS/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="14 Остальные",Subbota! (576p)
+http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="14 Остальные",Subbota! SD (576p)
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="14 Остальные",SuperGeroi (1080p)
+http://31.148.48.15/Malish_TV/index.m3u8
+#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="14 Остальные",SuperGeroi (576p)
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1 tvg-id="Svoboda.ru@SD" group-title="14 Остальные",Svoboda
+http://88.212.15.19/live/svoboda/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="14 Остальные",T24 (576p)
+http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="14 Остальные",T24 (576p)
+http://stream.mcquack.net/209/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD" group-title="14 Остальные",Teatr (576p)
+http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1 tvg-id="TeleDom.ru@SD" group-title="14 Остальные",TeleDom
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="14 Остальные",TiJi (576p)
+https://live-3.otcnet.ru/Tiji/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@HD" group-title="14 Остальные",TNT HD (1080p)
+http://45.153.24.78/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TochkaRF.ru@SD" group-title="14 Остальные",Tochka RF (1080p)
+http://stream.mcquack.net/161/index.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru@SD" group-title="14 Остальные",Top Secret (576p)
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 tvg-id="TsargradTV.ru@SD" group-title="14 Остальные",Tsargrad TV (1080p) [Geo-blocked]
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr (576p)
+http://hls127.freeott.top:8080/Tv_Center/video.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr SD (576p)
+http://185.71.81.6:8080/10/index.m3u8
+#EXTINF:-1 tvg-id="TV3.ru@Belarus" group-title="14 Остальные",TV-3 (576p)
+http://178.124.179.122:8080/TB-3/index.m3u8
+#EXTINF:-1 tvg-id="U.ru@SD" group-title="14 Остальные",U (576p)
+http://178.134.1.158:8081/U/index.m3u8
+#EXTINF:-1 tvg-id="U.ru@SD" group-title="14 Остальные",U (576p)
+http://stream.mcquack.net/230/index.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="14 Остальные",Univer TV (1080p) [Not 24/7]
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="14 Остальные",Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" group-title="14 Остальные",V gostyakh u skazki (576p)
+http://stream.mcquack.net/93/index.m3u8
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" group-title="14 Остальные",Vesti FM (720p)
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" group-title="14 Остальные",Vitrina TV (720p)
+https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="Vkus.ru@SD" group-title="14 Остальные",Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" group-title="14 Остальные",Vmeste-RF (576p) [Geo-blocked]
+https://streaming.thestream.cyou/live/7006.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD" group-title="14 Остальные",Vremya (576p)
+http://stream.mcquack.net/237/index.m3u8
+#EXTINF:-1 tvg-id="Zhara.ru@SD" group-title="14 Остальные",Zhara (576p)
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+#EXTINF:-1 tvg-id="Zhara.ru@SD" group-title="14 Остальные",Zhara (576p)
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="14 Остальные",Zvezda (1080p)
+http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" group-title="14 Остальные",Zvezda HD (1080p) [Not 24/7]
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="14 Остальные",Аист ТВ (1080p)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="14 Остальные",Арис 24 (720p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru@SD" group-title="14 Остальные",Астрахань 24 (720p)
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" group-title="14 Остальные",Астрахань.Ru TV (480p)
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-id="BST.ru@SD" group-title="14 Остальные",БСТ 24 (Братск)
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru@SD" group-title="14 Остальные",Ветта 24 (Пермь) (576p) [Not 24/7]
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Volga.ru@SD" group-title="14 Остальные",Волга (HD)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru@SD" group-title="14 Остальные",Волгоград 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="14 Остальные",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="14 Остальные",К16 (Саров) (406p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="14 Остальные",ЛДПР ТВ (1080p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="14 Остальные",ЛДПР ТВ (720p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="14 Остальные",ЛДПР ТВ (480p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD" group-title="14 Остальные",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="14 Остальные",МТВ (Волгоград) (720p) [Not 24/7]
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="14 Остальные",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="14 Остальные",Мультимания ТВ (576p)
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD" group-title="14 Остальные",Надежда (720p)
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nano.ru@HD" group-title="14 Остальные",Нано ТВ HD (576p)
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD" group-title="14 Остальные",Нижний Новгород 24 (720p) [Not 24/7]
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 tvg-id="OSN.ru@SD" group-title="14 Остальные",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 tvg-id="Patriot.ru@SD" group-title="14 Остальные",Патриот (576i)
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="14 Остальные",Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="14 Остальные",Солнце (576p)
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="14 Остальные",Сочи 24 HD (720p)
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru@SD" group-title="14 Остальные",Страна FM (720p) [Not 24/7]
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="14 Остальные",Тамыр (Уфа)
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.ru@SD" group-title="14 Остальные",ТВК 24 (576p)
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="TvoeTV.ru@SD" group-title="14 Остальные",Твое TV HD (1080p)
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="14 Остальные",Толк HD (720p)
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" group-title="14 Остальные",Щёлковское ТВ (576p) [Not 24/7]
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="14 Остальные",2x2 (576p)
+http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD" group-title="14 Остальные",Duma TV (720p)
+http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
+http://185.23.80.23:8080/REN/index.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" group-title="14 Остальные",Pobeda (1080p)
+http://94.155.93.182/POBEDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="14 Остальные",MMA-TV.com (576p)
+http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Nauka.ru@SD" group-title="14 Остальные",Nauka (576p)
+http://45.145.32.13:20440/nauka/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Detskiy.ru@SD" group-title="14 Остальные",Detskiy (576p)
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (576p)
+http://45.145.32.13:20440/moskva24/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@SD" group-title="14 Остальные",Zvezda Plus (576p)
+http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+#EXTINF:-1 tvg-id="STSkids.ru@HD" group-title="14 Остальные",STS kids HD (1080p)
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="TochkaRF.ru@SD" group-title="14 Остальные",Tochka RF (1080p)
+http://45.145.32.13:20440/hdl/index.m3u8?token=test
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="14 Остальные",BRIDGE (576p)
+http://178.134.1.158:8081/BRIDGE/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru@SD" group-title="14 Остальные",BRIDGE Rock (576p)
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" group-title="14 Остальные",REN TV International (576p)
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 tvg-id="BabyTime.ru@SD" group-title="14 Остальные",Baby Time (576p)
+http://178.134.1.158:8081/babytime/index.m3u8
+#EXTINF:-1 tvg-id="red.ru@HD" group-title="14 Остальные",.red HD (1080p)
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-id="TV21.ru@SD" group-title="14 Остальные",TV 21 (576p)
+http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:-1 tvg-id="Tonus.ru@SD" group-title="14 Остальные",Tonus (576p)
+http://194.143.148.28:8080/Mir24/index.m3u8
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="14 Остальные",AIST TV (576p)
+http://194.143.148.28:8080/Aist/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="14 Остальные",BRIDGE (576p)
+http://194.143.148.28:8080/RT_DOC/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
+http://flussonic.linkintel.ru/ren_tv/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="14 Остальные",Friday! (576p)
+http://flussonic.linkintel.ru/Pyatnica/index.m3u8
+#EXTINF:-1 tvg-id="TV3.ru@SD" group-title="14 Остальные",TV-3 (576p)
+http://flussonic.linkintel.ru/tv-3/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru@SD" group-title="14 Остальные",Mult (576p)
+http://flussonic.linkintel.ru/Mult/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD" group-title="14 Остальные",Ani (576p)
+http://flussonic.linkintel.ru/Ani/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="14 Остальные",TNT (576p)
+http://flussonic.linkintel.ru/tnt/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS (576p)
+http://flussonic.linkintel.ru/sts/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD" group-title="14 Остальные",Che! (576p)
+http://flussonic.linkintel.ru/che/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="14 Остальные",Carousel (576p)
+http://flussonic.linkintel.ru/Karusel/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr (576p)
+http://flussonic.linkintel.ru/tvc/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="14 Остальные",Zvezda (576p)
+http://flussonic.linkintel.ru/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="OTR.ru@SD" group-title="14 Остальные",OTR (576p)
+http://flussonic.linkintel.ru/otr/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru@SD" group-title="14 Остальные",TNT4 (576p)
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="14 Остальные",Amedia Hit (576p)
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" group-title="14 Остальные",Kino TV (576p)
+http://flussonic.linkintel.ru/kino-tv/index.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="14 Остальные",Gulli Girl (576p)
+http://flussonic.linkintel.ru/gulli_girl/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="14 Остальные",TiJi (576p)
+http://flussonic.linkintel.ru/tiji/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (576p)
+http://flussonic.linkintel.ru/match/index.m3u8
+#EXTINF:-1 tvg-id="Mama.ru@SD" group-title="14 Остальные",Mama (576p)
+http://flussonic.linkintel.ru/mama/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru@SD" group-title="14 Остальные",TNT4 (576p)
+http://stream.mcquack.net/106/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="14 Остальные",Telecafe (576p)
+http://stream.mcquack.net/314/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" group-title="14 Остальные",BRIDGE Classic (576p)
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" group-title="14 Остальные",BRIDGE Hits (576p)
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 tvg-id="TNT4International.ru@SD" group-title="14 Остальные",TNT4 International (576p)
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" group-title="14 Остальные",REN TV International (576p)
+https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" group-title="14 Остальные",365 days TV (576p)
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="14 Остальные",T24 (576p)
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" group-title="14 Остальные",Moya Planeta (576p)
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Istoriya.ru@SD" group-title="14 Остальные",Istoriya (576p)
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BigPlanet.ru@SD" group-title="14 Остальные",Big Planet (576p)
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Avto24.ru@SD" group-title="14 Остальные",Avto24 (576p)
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Poehali.ru@SD" group-title="14 Остальные",Poehali! (576p)
+https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="India.ru@SD" group-title="14 Остальные",India (576p)
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Domkino.ru@International" group-title="14 Остальные",Dom kino International (576p)
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" group-title="14 Остальные",Dom kino Premium HD (1080p)
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" group-title="14 Остальные",Domashniy (576p)
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" group-title="14 Остальные",Evrokino (576p)
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="14 Остальные",KinoHit (576p)
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" group-title="14 Остальные",Kinouzhas (576p)
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="14 Остальные",Indiyskoye Kino (576p)
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" group-title="14 Остальные",Kinokomedija (576p)
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" group-title="14 Остальные",Kinomix (576p)
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinopremyera.ru@HD" group-title="14 Остальные",Kinopremyera HD (1080p)
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" group-title="14 Остальные",Rodnoe Kino (576p)
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD" group-title="14 Остальные",Kinosemja (576p)
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="14 Остальные",Kinoseriya (576p)
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" group-title="14 Остальные",Kinosvidanie (576p)
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" group-title="14 Остальные",Nashe Novoe Kino (576p)
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000.ru@SD" group-title="14 Остальные",viju TV1000 (576p)
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" group-title="14 Остальные",viju TV1000 action (576p)
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" group-title="14 Остальные",viju TV1000 russkoe (576p)
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (576p)
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" group-title="14 Остальные",KVN TV (576p)
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="14 Остальные",Mir (576p)
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr (576p)
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="14 Остальные",Nostalgia (576p)
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Oruzhie.ru@SD" group-title="14 Остальные",Oruzhie (576p)
+https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" group-title="14 Остальные",Peretz International (576p)
+https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" group-title="14 Остальные",Pobeda (576p)
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD" group-title="14 Остальные",Russkiy Illusion (576p)
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS (576p)
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="14 Остальные",STS Love (576p)
+https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="14 Остальные",Telecafe (576p)
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" group-title="14 Остальные",Tochka otryva (576p)
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Dorama.ru@SD" group-title="14 Остальные",Dorama (576p)
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TV21.ru@SD" group-title="14 Остальные",TV 21 (576p)
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="U.ru@SD" group-title="14 Остальные",U (576p)
+https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Vremya.ru@SD" group-title="14 Остальные",Vremya (576p)
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Zhara.ru@SD" group-title="14 Остальные",Zhara (576p)
+https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Zhivi.ru@SD" group-title="14 Остальные",Zhivi! (576p)
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Sarafan.ru@SD" group-title="14 Остальные",Sarafan (576p)
+https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="14 Остальные",Zoopark (576p)
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="14 Остальные",Zvezda (576p)
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" group-title="14 Остальные",BRIDGE Classic (576p)
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="14 Остальные",Shanson TV (576p)
+https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD" group-title="14 Остальные",Europa Plus TV (576p)
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" group-title="14 Остальные",V gostyakh u skazki (576p)
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BabyTime.ru@SD" group-title="14 Остальные",Baby Time (576p)
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="LapkiLive.ru@SD" group-title="14 Остальные",Lapki Live (576p)
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STSkids.ru@International" group-title="14 Остальные",STS kids International (576p)
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="14 Остальные",Da Vinci (576p)
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" group-title="14 Остальные",Carousel International (576p)
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="O.ru@International" group-title="14 Остальные",O! International (576p)
+https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Bober.ru@SD" group-title="14 Остальные",Bober (576p)
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mult.ru@International" group-title="14 Остальные",Mult International (576p)
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Multilandia.ru@SD" group-title="14 Остальные",Multilandia (576p)
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD" group-title="14 Остальные",KHL Prime (1080p)
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KHL.ru@SD" group-title="14 Остальные",KHL (576p)
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (576p)
+https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" group-title="14 Остальные",Match! Planeta (576p)
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="14 Остальные",MMA-TV.com (576p)
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Channel5International.ru@SD" group-title="14 Остальные",Channel 5 International (576p)
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" group-title="14 Остальные",TNV-Planet (576p)
+https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (576p)
+http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (576p)
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru@HD" group-title="14 Остальные",Velvet. World Series (1080p)
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru@HD" group-title="14 Остальные",Velvet. Svaty (1080p)
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru@HD" group-title="14 Остальные",Velvet. Sovetskoe Kino (1080p)
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru@HD" group-title="14 Остальные",Velvet. Series Hits (1080p)
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetScary.ru@HD" group-title="14 Остальные",Velvet. Scary (1080p)
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru@HD" group-title="14 Остальные",Velvet. Mentovskiye Serialy (1080p)
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru@HD" group-title="14 Остальные",Velvet. Golden Collection (1080p)
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="DetvoraPlus.ru@HD" group-title="14 Остальные",Detvora+ (1080p)
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" group-title="14 Остальные",Rybalka i okhota (576p)
+https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" group-title="14 Остальные",Domashnie Zhivotnye (576p)
+https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TV3.ru@SD" group-title="14 Остальные",TV-3 (576p)
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="14 Остальные",TNT (576p)
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD" group-title="14 Остальные",Che! (576p)
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru@SD" group-title="14 Остальные",TNT4 (576p)
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru@SD" group-title="14 Остальные",KHL (576p)
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="14 Остальные",RBK-TV (576p)
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS (576p)
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="14 Остальные",2x2 (576p)
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" group-title="14 Остальные",Mir Seriala (576p)
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="14 Остальные",Carousel (576p)
+http://88.212.15.19/live/test_karusel/playlist.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD" group-title="14 Остальные",Vremya (576p)
+http://88.212.15.19/live/test_vremya/playlist.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" group-title="14 Остальные",Dom kino (576p)
+http://88.212.15.19/live/test_dom_kino/playlist.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" group-title="14 Остальные",Dom kino Premium (576p)
+http://88.212.15.19/live/test_dom_kino_premium/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="14 Остальные",Telecafe (576p)
+http://88.212.15.19/live/test_telecafe_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bober.ru@SD" group-title="14 Остальные",Bober (576p)
+http://88.212.15.19/live/test_bober/playlist.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru@SD" group-title="14 Остальные",Poehali! (576p)
+http://88.212.15.19/live/test_poehali/playlist.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru@SD" group-title="14 Остальные",Oplot TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" group-title="14 Остальные",6 TV Gorlovka (720p) [Geo-blocked]
+http://91.214.48.158:4022/udp/224.2.2.4:10000
+#EXTINF:-1 tvg-id="TNTInternational.ru@Belarus" group-title="14 Остальные",TNT International Belarus (1080p)
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
+#EXTINF:-1 tvg-id="YaltaTV.ru@SD" group-title="14 Остальные",Yalta TV (480p) [Geo-blocked]
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1 tvg-id="Channel8International.ru@SD" group-title="14 Остальные",Channel 8 International (576p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" group-title="14 Остальные",Kuban 24 (480p) [Geo-blocked]
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@Europe" group-title="14 Остальные",TNT International (480p)
+http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
+#EXTINF:-1 tvg-id="OplotTV.ru@Khartsyzsk" group-title="14 Остальные",Oplot TV (1080p) [Geo-blocked]
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Oplot2.ru@SD" group-title="14 Остальные",Oplot 2 (720p) [Geo-blocked]
+http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (1080p)
+http://31.148.5.241/kanal_3/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="14 Остальные",Channel 5 (576p)
+http://31.148.5.241/kanal_5/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="14 Остальные",Carousel (576p)
+http://31.148.5.241/kanal_8/index.m3u8
+#EXTINF:-1 tvg-id="OTR.ru@SD" group-title="14 Остальные",OTR (576p)
+http://31.148.5.241/kanal_9/index.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr (576p)
+http://31.148.5.241/kanal_10/index.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
+http://31.148.5.241/kanal_11/index.m3u8
+#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="14 Остальные",Spas (576p)
+http://31.148.5.241/kanal_12/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="14 Остальные",STS (576p)
+http://31.148.5.241/kanal_13/index.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" group-title="14 Остальные",Domashniy (576p)
+http://31.148.5.241/kanal_14/index.m3u8
+#EXTINF:-1 tvg-id="TV3.ru@SD" group-title="14 Остальные",TV-3 (576p)
+http://31.148.5.241/kanal_15/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="14 Остальные",Friday! (576p)
+http://31.148.5.241/kanal_16/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="14 Остальные",Zvezda (576p)
+http://31.148.5.241/kanal_17/index.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="14 Остальные",Mir (576p)
+http://31.148.5.241/kanal_18/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="14 Остальные",TNT (576p)
+http://31.148.5.241/kanal_19/index.m3u8
+#EXTINF:-1 tvg-id="Rus.ru@SD" group-title="14 Остальные",Rus (576p)
+http://31.148.5.241/kanal_21/index.m3u8
+#EXTINF:-1 tvg-id="TV21International.ru@SD" group-title="14 Остальные",TV 21 International (576p)
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" group-title="14 Остальные",Saphire (1080p)
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" group-title="14 Остальные",Nash Kinopokaz HD (576p)
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru@HD" group-title="14 Остальные",RTG TV HD (1080p)
+http://46.53.200.153:7777/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="14 Остальные",Shanson TV (576p)
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru@Belarus" group-title="14 Остальные",Europa Plus TV Belarus (576p)
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000novella.ru@HD" group-title="14 Остальные",viju TV1000 novella HD (1080p)
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000romantica.ru@HD" group-title="14 Остальные",viju TV1000 romantica HD (1080p)
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru@SD" group-title="14 Остальные",viju TV1000 (576p)
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" group-title="14 Остальные",viju TV1000 action (576p)
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" group-title="14 Остальные",viju TV1000 russkoe (576p)
+http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="Quadro.ru@4K" group-title="14 Остальные",Quadro (2160p)
+http://57.128.231.171:8080/316/index.m3u8
