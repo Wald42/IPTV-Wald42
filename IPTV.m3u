@@ -1930,9 +1930,9 @@ http://185.23.80.23:8080/REN/index.m3u8
 #EXTINF:-1 tvg-id="Pobeda.ru@SD" group-title="14 Остальные",Pobeda (1080p)
 http://94.155.93.182/POBEDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="14 Остальные",MMA-TV.com (576p)
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nauka.ru@SD" group-title="14 Остальные",Nauka (576p)
-http://45.145.32.13:20440/nauka/index.m3u8?token=test
+http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 tvg-id="Detskiy.ru@SD" group-title="14 Остальные",Detskiy (576p)
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="14 Остальные",Moskva 24 (576p)
@@ -1944,7 +1944,7 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="14 Остальные",REN TV (576p)
 http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TochkaRF.ru@SD" group-title="14 Остальные",Tochka RF (1080p)
-http://45.145.32.13:20440/hdl/index.m3u8?token=test
+http://stream.mcquack.net/161/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="14 Остальные",BRIDGE (576p)
 http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" group-title="14 Остальные",BRIDGE Rock (576p)
