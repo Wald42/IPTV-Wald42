@@ -1806,7 +1806,7 @@ http://31.148.48.15/Malish_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="14 Остальные",SuperGeroi (576p)
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-id="Svoboda.ru@SD" group-title="14 Остальные",Svoboda
-http://88.212.15.17/live/svoboda/index.m3u8
+http://88.212.15.50/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" group-title="14 Остальные",T24 (576p)
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" group-title="14 Остальные",T24 (576p)
@@ -2026,7 +2026,7 @@ https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Avto24.ru@SD" group-title="14 Остальные",Avto24 (576p)
 https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Poehali.ru@SD" group-title="14 Остальные",Poehali! (576p)
-http://88.212.15.17/live/test_poehali/playlist.m3u8
+http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="India.ru@SD" group-title="14 Остальные",India (576p)
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Domkino.ru@International" group-title="14 Остальные",Dom kino International (576p)
@@ -2198,13 +2198,13 @@ http://88.212.15.19/live/test_vremya/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" group-title="14 Остальные",Dom kino (576p)
 http://88.212.15.19/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" group-title="14 Остальные",Dom kino Premium (576p)
-http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
+http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="14 Остальные",Telecafe (576p)
 http://88.212.15.19/live/test_telecafe_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bober.ru@SD" group-title="14 Остальные",Bober (576p)
 http://88.212.15.19/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD" group-title="14 Остальные",Poehali! (576p)
-http://88.212.15.17/live/test_poehali/playlist.m3u8
+http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru@SD" group-title="14 Остальные",Oplot TV (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" group-title="14 Остальные",6 TV Gorlovka (720p) [Geo-blocked]
@@ -2224,7 +2224,7 @@ http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="OplotTV.ru@Khartsyzsk" group-title="14 Остальные",Oplot TV (1080p) [Geo-blocked]
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru@SD" group-title="14 Остальные",Oplot 2 (720p) [Geo-blocked]
-http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8
+http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="14 Остальные",Match! Ultra (1080p)
 http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="14 Остальные",Channel 5 (576p)
