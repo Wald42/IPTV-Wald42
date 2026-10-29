@@ -740,7 +740,7 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://ngrch.github.io/iptv/logos/ru_tv.png" group-title="13 Музыка", RU.TV РУ.ТВ (3)
 http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 tvg-id="Multimuzyka.ru@SD" group-title="13 Музыка",Mult i muzyka (576p)
-http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+http://stream.mcquack.net/82/index.m3u8
 #EXTINF:-1 tvg-id="Multimuzyka.ru@SD" group-title="13 Музыка",Mult i muzyka (576p)
 http://stream.mcquack.net/82/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="13 Музыка",Muz-TV (576p)
@@ -839,9 +839,9 @@ http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1  tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="14 Остальные", Viju TV1000 Action (3)
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (2)
-http://t1.tv.kvant-telecom.ru:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (3)
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (3)
+http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1  tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="14 Остальные", 2x2 (4)
 http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1  tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png" group-title="14 Остальные", Солнце (2)
@@ -1625,7 +1625,7 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="14 Остальные",Gulli Girl (576p)
 https://live-3.otcnet.ru/GulliGirl/index.m3u8
 #EXTINF:-1 tvg-id="Hit.ru@HD" group-title="14 Остальные",Hit HD (1080p)
-http://hls127.freeott.top:8080/XitHD/video.m3u8
+http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 tvg-id="HorosheeKino.ru@SD" group-title="14 Остальные",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="14 Остальные",Indiyskoye Kino (576p)
@@ -1633,7 +1633,7 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="14 Остальные",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" group-title="14 Остальные",Istoriya (576p)
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KHL.ru@SD" group-title="14 Остальные",KHL (576p)
 http://stream.mcquack.net/166/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru@SD" group-title="14 Остальные",Kino 24 (720p)
@@ -1700,7 +1700,7 @@ http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" group-title="14 Остальные",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="14 Остальные",Nostalgia (576p)
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="NST.ru@SD" group-title="14 Остальные",NST (576p)
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 tvg-id="NST.ru@SD" group-title="14 Остальные",NST (576p)
@@ -2074,7 +2074,7 @@ https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="14 Остальные",TV Centr (576p)
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="14 Остальные",Nostalgia (576p)
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="Oruzhie.ru@SD" group-title="14 Остальные",Oruzhie (576p)
 https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="PeretzInternational.ru@SD" group-title="14 Остальные",Peretz International (576p)
