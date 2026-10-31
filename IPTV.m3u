@@ -12,7 +12,7 @@ http://176.118.197.101/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="02 Россия 24",Russia-24 (576p)
 http://31.148.5.241/kanal_7/index.m3u8
 #EXTINF:-1  group-title="03 РТР", Россия РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
+https://streaming.thestream.cyou/live/211.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" group-title="03 РТР",RTR-Planeta (576p)
 https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1  tvg-id="zvezda" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="06a Звезда", Звезда (2)
@@ -33,7 +33,7 @@ https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1  tvg-id="mir-24" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="06 Новости", Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1  group-title="06 Новости", РБК
-http://92.50.128.180/utv/1358/index.m3u8
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1  group-title="06 Новости", РБК (3)
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1  group-title="06 Новости", 360 Новости
@@ -937,7 +937,7 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 #EXTINF:-1  group-title="14 Остальные", MMA
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1  group-title="14 Остальные", КХЛ KHL Prime
-https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv
+http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", КХЛ KHL Prime (2)
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", Мото Драйв
@@ -1329,7 +1329,7 @@ http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", Витебск | Беларусь
 https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", Первый информационный | Беларусь
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy/index.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", СТВ | Беларусь
 https://ngtrk.dc.beltelecom.by/ctv/ctv.stream/index.m3u8
 #EXTINF:-1  group-title="14 Остальные", СТВ (2) | Беларусь
